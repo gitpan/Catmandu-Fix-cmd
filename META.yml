@@ -18,7 +18,7 @@ name: Catmandu-Fix-cmd
 provides:
   Catmandu::Fix::cmd:
     file: lib/Catmandu/Fix/cmd.pm
-    version: 0.0101
+    version: 0.02
 requires:
   Catmandu: 0.1
   IO::Pty::Easy: 0.09
@@ -26,4 +26,4 @@ requires:
   perl: v5.10.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.0101
+version: 0.02

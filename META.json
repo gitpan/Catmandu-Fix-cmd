@@ -38,7 +38,7 @@
    "provides" : {
       "Catmandu::Fix::cmd" : {
          "file" : "lib/Catmandu/Fix/cmd.pm",
-         "version" : "0.0101"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -47,5 +47,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.0101"
+   "version" : "0.02"
 }
