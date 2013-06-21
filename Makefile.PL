@@ -11,7 +11,8 @@ WriteMakefile
                    'JSON::XS' => '2.3',
                    'Software::License' => 0,
                    'Test::Exception' => 0,
-                   'Test::More' => 0
+                   'Test::More' => 0,
+                   'namespace::clean' => '0.24'
                  },
   'INSTALLDIRS' => 'site',
   'EXE_FILES' => [],
